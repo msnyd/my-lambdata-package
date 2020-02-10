@@ -12,7 +12,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md file for long desc
     license="",
-    url="",
-    keywords="rock paper scissors game",
+    url="https://github.com/msnyd/my-lambdata-package",
+    keywords="data-split-test",
     packages=find_packages() # ["game_utils"]
 )
