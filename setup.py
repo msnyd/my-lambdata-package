@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="msnyd-helper-functions",
-    version="1.0",
+    version="1.3",
     author="M Snyder",
     author_email="msnyder97@gmail.com",
     description="Helps with splitting data",
